@@ -51,7 +51,7 @@ python manage.py runserver
    ```
    http://127.0.0.1:8000/api/v1/api-token-auth/
    ```
-    ![Example-get-token](https://github.com/Sined-Htims/)
+    ![Example-get-token](https://github.com/Sined-Htims/Image/blob/main/api_yatube/Example-get-token.png)
 
 <br>
 
@@ -59,7 +59,7 @@ python manage.py runserver
     <br>Для автоматического предоставления токена серверу, необходимо во вкладке ***Headears*** приложения ***Postman***, установить в значение ключа ***Authorization*** полученный токен из пункта 8.
     <br>
     <br>
-    ![Example-add-token](https://github.com/Sined-Htims/)
+    ![Example-add-token](https://github.com/Sined-Htims/Image/blob/main/api_yatube/Example-add-token.png)
     </br>
 <br>
 
